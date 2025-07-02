@@ -1,4 +1,4 @@
-langchain 
-flask 
+ flask 
 pandas
 scikit-learn
+langchain
