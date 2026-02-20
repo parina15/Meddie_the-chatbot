@@ -5,4 +5,3 @@ built using Python, Flask, and a Logistic Regression model trained on basic heal
 interact with the chatbot in real-time through a clean web interface. 
 
 Just type in your symptom, and let this AI buddy serve you some comforting advice (but hey, it's still not a real doctor 😉).
-file:///C:/Users/Dell/OneDrive/Desktop/Parriina_CollegeWork/Medical%20Bot_files/chatbot/templates/index.html
